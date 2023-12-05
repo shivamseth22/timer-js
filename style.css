@@ -1,0 +1,17 @@
+.main{
+    display: flex;
+    /* flex-direction: column; */
+    margin: 5px;
+    
+}
+h1{
+    padding: 20px;
+}
+.btn{
+    
+    padding: 20px;
+}
+button{
+    margin: 5px;
+    padding: 10px;
+}
